@@ -1,0 +1,5 @@
+class NeighbourRules {
+
+};
+
+export { NeighbourRules };

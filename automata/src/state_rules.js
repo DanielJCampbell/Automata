@@ -1,0 +1,5 @@
+class StateRules {
+
+};
+
+export { StateRules };
